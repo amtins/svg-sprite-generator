@@ -1,0 +1,103 @@
+{
+  "root-dir": "node_modules/material-design-icons",
+  "output-dir": "material-design-icons",
+  "icons": {
+    "audio-description": {
+      "root-dir" :"custom-icons",
+      "file": "audio-description.svg"
+    },
+    "audio": "hardware/svg/production/ic_headset_48px.svg",
+    "cancel": "navigation/svg/production/ic_cancel_48px.svg",
+    "captions": "av/svg/production/ic_closed_caption_48px.svg",
+    "cast": "hardware/svg/production/ic_cast_48px.svg",
+    "chapters": "action/svg/production/ic_list_48px.svg",
+    "circle-inner-circle": "image/svg/production/ic_adjust_48px.svg",
+    "circle-outline": "image/svg/production/ic_panorama_fish_eye_48px.svg",
+    "circle": "image/svg/production/ic_brightness_1_48px.svg",
+    "cog": "action/svg/production/ic_settings_48px.svg",
+    "downloading": {
+      "root-dir" :"custom-icons/mdi-v4",
+      "file": "downloading.svg"
+    },
+    "facebook": {
+      "root-dir" :"custom-icons/fontawesome",
+      "file": "facebook.svg"
+    },
+    "file-download-done": {
+      "root-dir" :"custom-icons/mdi-v4",
+      "file": "file_download_done.svg"
+    },
+    "file-download-off": {
+      "root-dir" :"custom-icons/mdi-v4",
+      "file": "file_download_off.svg"
+    },
+    "file-download": {
+      "root-dir" :"custom-icons/mdi-v4",
+      "file": "file_download.svg"
+    },
+    "forward-10": {
+      "root-dir" :"custom-icons/skip-forward-backward",
+      "file": "forward-10.svg"
+    },
+    "forward-30": {
+      "root-dir" :"custom-icons/skip-forward-backward",
+      "file": "forward-30.svg"
+    },
+    "forward-5": {
+      "root-dir" :"custom-icons/skip-forward-backward",
+      "file": "forward-5.svg"
+    },
+    "fullscreen-enter": "navigation/svg/production/ic_fullscreen_48px.svg",
+    "fullscreen-exit": "navigation/svg/production/ic_fullscreen_exit_48px.svg",
+    "hd": "av/svg/production/ic_hd_24px.svg",
+    "linkedin": {
+      "root-dir" :"custom-icons/fontawesome",
+      "file": "linkedin.svg"
+    },
+    "next-item": "av/svg/production/ic_skip_next_48px.svg",
+    "pause": "av/svg/production/ic_pause_48px.svg",
+    "picture-in-picture-enter": "action/svg/production/ic_picture_in_picture_alt_48px.svg",
+    "picture-in-picture-exit": {
+      "root-dir" :"custom-icons",
+      "file": "picture-in-picture-exit.svg"
+    },
+    "pinterest": {
+      "root-dir" :"custom-icons/fontawesome",
+      "file": "pinterest.svg"
+    },
+    "play-circle": "av/svg/production/ic_play_circle_outline_48px.svg",
+    "play": "av/svg/production/ic_play_arrow_48px.svg",
+    "previous-item": "av/svg/production/ic_skip_previous_48px.svg",
+    "repeat": "av/svg/production/ic_repeat_48px.svg",
+    "replay-10": {
+      "root-dir" :"custom-icons/skip-forward-backward",
+      "file": "replay-10.svg"
+    },
+    "replay-30": {
+      "root-dir" :"custom-icons/skip-forward-backward",
+      "file": "replay-30.svg"
+    },
+    "replay-5": {
+      "root-dir" :"custom-icons/skip-forward-backward",
+      "file": "replay-5.svg"
+    },
+    "replay": "av/svg/production/ic_repeat_48px.svg",
+    "share": "social/svg/production/ic_share_48px.svg",
+    "shuffle": "av/svg/production/ic_shuffle_48px.svg",
+    "spinner": "image/svg/production/ic_camera_48px.svg",
+    "square": "image/svg/production/ic_crop_square_48px.svg",
+    "subtitles": "av/svg/production/ic_subtitles_48px.svg",
+    "tumblr": {
+      "root-dir" :"custom-icons/fontawesome",
+      "file": "tumblr.svg"
+    },
+    "twitter": {
+      "root-dir" :"custom-icons/fontawesome",
+      "file": "twitter.svg"
+    },
+    "volume-high": "av/svg/production/ic_volume_up_48px.svg",
+    "volume-low": "av/svg/production/ic_volume_mute_48px.svg",
+    "volume-medium": "av/svg/production/ic_volume_down_48px.svg",
+    "volume-mute": "av/svg/production/ic_volume_off_48px.svg"
+  }
+}
