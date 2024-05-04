@@ -14,8 +14,11 @@
   },
   "scripts": {
     "build": "node index.js",
+    "build:material": "node bin/cli.js generate material-icons.json",
     "prestart": "npm run build",
-    "start": "http-server -c-1 -o vjs-svg-sprite"
+    "start": "http-server -c-1 -o vjs-svg-sprite",
+    "prestart:material": "npm run build:material",
+    "start:material": "http-server -c-1 -o material-design-icons"
   },
   "keywords": [
     "svg",
@@ -29,6 +32,7 @@
     "svgo": "^3.0.3"
   },
   "devDependencies": {
-    "http-server": "^14.1.1"
+    "http-server": "^14.1.1",
+    "material-design-icons": "^3.0.1"
   }
 }
